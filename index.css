@@ -1,0 +1,30 @@
+:root {
+    font-size: 10px;
+}
+
+body {
+    background: rgb(182, 255, 226);
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-size: 4.8rem;
+}
+
+h6 {
+    margin: 2vh;
+    font-size: 2rem;
+}
+
+img {
+    width: 50vw;
+}
+
+#cat-fact-box {
+    width: 50vw;
+    margin: 0 auto;
+    border: 3px outset #537a5a;
+    font-size: 2rem;
+    padding-bottom: 2vh;
+}

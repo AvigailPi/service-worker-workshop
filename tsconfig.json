@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "module": "ES6",
+        "moduleResolution": "Node",
+        "target": "ES6",
+        // From https://joshuatz.com/posts/2021/strongly-typed-service-workers/
+        "lib": [
+            "WebWorker",
+            "ESNext"
+        ],
+        "skipLibCheck": true,
+        "declaration": false
+    },
+    "include": [
+        "service-worker.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
