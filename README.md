@@ -9,4 +9,4 @@ The project needs to be restarted after every change. In order to start the proj
 
 Workbox Documentation:\
 [https://developer.chrome.com/docs/workbox/modules/](https://developer.chrome.com/docs/workbox/modules/)\
-[https://developer.chrome.com/docs/workbox/reference/](https://developer.chrome.com/docs/workbox/reference/)
+[https://developer.chrome.com/docs/workbox/what-is-workbox](https://developer.chrome.com/docs/workbox/what-is-workbox)\
